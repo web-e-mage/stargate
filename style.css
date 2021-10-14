@@ -1,0 +1,191 @@
+html
+{
+	font-size:1vw;
+}
+
+body
+{
+	display:flex;
+	justify-content: center;
+	align-items:center;
+	height:98vh;
+	overflow:hidden;
+}
+
+#wem_loader_wrapper_layer_0
+{
+	position:relative;
+	z-index:0;
+	font-family:sg1;
+	font-size:3rem;
+	display:flex;
+	justify-content: center;
+	align-items:center;
+	width:100%;
+}
+
+#wem_stargate_outer_frame
+{
+	height:45rem;
+	width:45rem;
+	border-radius:50%;
+	border: 0.2rem solid #555555;
+	display:flex;
+	justify-content: center;
+	align-items:center;
+}
+
+#wem_stargate_inner_frame
+{
+	height:40rem;
+	width:40rem;
+	border-radius:50%;
+	border: 0.2rem solid #555555;
+}
+
+#wem_loader_wrapper_layer_1
+{
+	position:absolute;
+	z-index:1;
+}
+
+#wem_stargate_vortex
+{
+	background-color:#c5c5c5;
+	height:40rem;
+	width:40rem;
+	border-radius:50%;
+}
+
+#wem_stargate_left_glyphs
+{
+	width:10%;
+	height:33.8rem;
+	display:flex;
+	flex-flow:column wrap;
+	justify-content:center;
+	align-items:center;
+	padding:0 10% 0 0;
+}
+
+#wem_stargate_right_glyphs
+{
+	width:10%;
+	height:33.8rem;
+	display:flex;
+	flex-flow:column wrap;
+	justify-content:center;
+	align-items:center;
+	padding:0 0 0 10%;
+}
+
+.stargate_glyphs
+{
+	list-style:none;
+	width:50%;
+	text-align:center;
+	border-bottom:0.1rem solid black;
+	border-right:0.1rem solid black;
+	line-height:3rem;
+}
+
+.border_top
+{
+	border-top:0.1rem solid black;
+}
+
+.border_left
+{
+	border-left:0.1rem solid black;
+}
+
+#wem_loader_wrapper_layer_neg_1
+{
+	position:absolute;
+	z-index:-1;
+	width:45rem;
+	height:45rem;
+	font-family:sg1;
+	font-size:2.1rem;
+}
+
+.wem_ring_part
+{
+	width:3.54rem;
+	height:2.4rem;
+	background-color:red;	
+	clip-path:polygon(0 0, 100% 0, 94.38% 100%, 5.62% 100%);
+	position:relative;
+	text-align:center;
+	display:flex;
+	justify-content:center;
+}
+.wem_ring_part_symbol
+{
+	width:3.24rem;
+	height:2.4rem;
+	clip-path:polygon(0 0, 100% 0, 93.9% 100%, 6.1% 100%);
+	background-color:white;
+	text-align:center;
+	line-height:2.6rem;
+}
+.top_21
+{
+	top:21.3rem;
+	transform:rotate(-90deg);
+	left:-1.1%;
+}	
+.top_15
+{
+	top:15.7rem;
+	transform:rotate(-81deg);
+	left:-0.7%;
+}
+.top_10
+{
+	top: 10.3rem;
+	transform: rotate(-72deg);
+	left: 0.9%;
+}
+.top_4
+{
+	top: 4.95rem;
+	transform: rotate(-63deg);
+	left: 3.4%;
+}
+.top_0
+{
+	top: -0.2rem;
+	transform: rotate(-54deg);
+	left: 6.9%;
+}
+.top_neg_5
+{
+	top: -5.1rem;
+	transform: rotate(-45deg);
+	left: 11.2%;
+}
+.top_neg_9
+{
+	top: -9.7rem;
+	transform: rotate(-36deg);
+	left: 16.3%;
+}
+.top_neg_13
+{
+	top: -13.95rem;
+	transform: rotate(-27deg);
+	left: 22.1%;
+}
+.top_neg_17
+{
+	top: -17.7rem;
+	transform: rotate(-18deg);
+	left: 28.5%;
+}
+.top_neg_4
+{
+	top: -5.1rem;
+	transform: rotate(-9deg);
+	left: 11.2%;
+}

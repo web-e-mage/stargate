@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'sg1';
+  src: url('fonts/sg1.eot');
+  src: url('fonts/sg1.eot?#iefix') format('embedded-opentype'),
+       url('fonts/sg1.svg#sg1') format('svg'),
+       url('fonts/sg1.ttf') format('truetype'),
+       url('fonts/sg1.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
