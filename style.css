@@ -183,9 +183,21 @@ body
 	transform: rotate(-18deg);
 	left: 28.5%;
 }
-.top_neg_4
+.top_neg_21
 {
-	top: -5.1rem;
+	top: -21.08rem;
 	transform: rotate(-9deg);
-	left: 11.2%;
+	left: 35.25%;
+}
+.top_neg_23
+{
+	top: -23.97rem;
+	transform: rotate(0deg);
+	left: 42.2%;
+}
+.top_neg_26
+{
+	top: -26.37rem;
+	transform: rotate(9deg);
+	left: 49.3%;
 }
