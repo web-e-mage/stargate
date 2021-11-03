@@ -129,75 +129,123 @@ body
 	text-align:center;
 	line-height:2.6rem;
 }
-.top_21
+.ring_part_1
 {
 	top:21.3rem;
 	transform:rotate(-90deg);
 	left:-1.1%;
 }	
-.top_15
+.ring_part_2
 {
-	top:15.7rem;
+	top:15.586rem;
 	transform:rotate(-81deg);
 	left:-0.7%;
 }
-.top_10
+.ring_part_3
 {
-	top: 10.3rem;
+	top: 9.95rem;
 	transform: rotate(-72deg);
-	left: 0.9%;
+	left: 1%;
 }
-.top_4
+.ring_part_4
 {
-	top: 4.95rem;
+	top: 4.47rem;
 	transform: rotate(-63deg);
-	left: 3.4%;
+	left: 3.73%;
 }
-.top_0
+.ring_part_5
 {
-	top: -0.2rem;
+	top: -0.7rem;
 	transform: rotate(-54deg);
-	left: 6.9%;
+	left: 7.5%;
 }
-.top_neg_5
+.ring_part_6
 {
-	top: -5.1rem;
+	top: -5.6rem;
 	transform: rotate(-45deg);
-	left: 11.2%;
+	left: 12.2%;
 }
-.top_neg_9
+.ring_part_7
 {
-	top: -9.7rem;
+	top: -10.15rem;
 	transform: rotate(-36deg);
-	left: 16.3%;
+	left: 17.75%;
 }
-.top_neg_13
+.ring_part_8
 {
-	top: -13.95rem;
+	top: -14.3rem;
 	transform: rotate(-27deg);
-	left: 22.1%;
+	left: 24%;
 }
-.top_neg_17
+.ring_part_9
 {
-	top: -17.7rem;
+	top: -18rem;
 	transform: rotate(-18deg);
-	left: 28.5%;
+	left: 30.54%;
 }
-.top_neg_21
+.ring_part_10
 {
-	top: -21.08rem;
+	top: -21.26rem;
 	transform: rotate(-9deg);
-	left: 35.25%;
+	left: 37.7%;
 }
-.top_neg_23
+.ring_part_11
 {
-	top: -23.97rem;
+	top: -24rem;
 	transform: rotate(0deg);
-	left: 42.2%;
+	left: 44.9%;
 }
-.top_neg_26
+.ring_part_12
 {
-	top: -26.37rem;
+	top: -26.22rem;
 	transform: rotate(9deg);
-	left: 49.3%;
+	left: 52.2%;
+}
+.ring_part_13
+{
+	top: -27.9rem;
+	transform: rotate(18deg);
+	left: 59.32%;
+}
+.ring_part_14
+{
+	top: -29.15rem;
+	transform: rotate(27deg);
+	left: 66.2%;
+}
+.ring_part_15
+{
+	top: -29.9rem;
+	transform: rotate(36deg);
+	left: 72.55%;
+}
+.ring_part_16
+{
+	top: -30.26rem;
+	transform: rotate(45deg);
+	left: 78.36%;
+}
+.ring_part_17
+{
+	top: -31.95rem;
+	transform: rotate(45deg);
+	left: 79.7%;
+}
+.top_neg_33
+{
+	top: -31.95rem;
+	transform: rotate(54deg);
+	left: 84.4%;
+}
+.top_neg_34
+{
+	top: -31.7rem;
+	transform: rotate(63deg);
+	left: 88%;
+}
+.top_neg_35
+{
+	top: -31.29rem;
+	transform: rotate(72deg);
+	left: 90.9%;
 }
