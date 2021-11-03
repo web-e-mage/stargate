@@ -227,25 +227,31 @@ body
 }
 .ring_part_17
 {
-	top: -31.95rem;
-	transform: rotate(45deg);
-	left: 79.7%;
-}
-.top_neg_33
-{
-	top: -31.95rem;
+	top: -30.2rem;
 	transform: rotate(54deg);
-	left: 84.4%;
+	left: 83.3%;
 }
-.top_neg_34
+.ring_part_18
 {
-	top: -31.7rem;
+	top: -29.83rem;
 	transform: rotate(63deg);
-	left: 88%;
+	left: 87.39%;
 }
-.top_neg_35
+.ring_part_19
 {
-	top: -31.29rem;
+	top: -29.26rem;
 	transform: rotate(72deg);
-	left: 90.9%;
+	left: 90.45%;
+}
+.ring_part_20
+{
+	top: -28.46rem;
+	transform: rotate(81deg);
+	left: 92.4%;
+}
+.ring_part_21
+{
+	top: -27.6rem;
+	transform: rotate(90deg);
+	left: 93.3%;
 }
